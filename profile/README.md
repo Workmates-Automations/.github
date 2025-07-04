@@ -16,15 +16,11 @@ Here’s a visual snapshot of the core technologies we use to build, automate, a
 |---|---|---|
 | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform) | ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=aws-cloudformation) | ![CDK](https://img.shields.io/badge/CDK-8892BF?style=for-the-badge&logo=amazon-aws) |
 
----
-
 ### ⚡ Serverless Stack
 
 | Lambda | API Gateway | Step Functions | AppSync |
 |---|---|---|---|
 | ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda) | ![API Gateway](https://img.shields.io/badge/API%20Gateway-232F3E?style=for-the-badge&logo=amazon-api-gateway) | ![Step Functions](https://img.shields.io/badge/Step%20Functions-F47C00?style=for-the-badge&logo=aws-step-functions) | ![AppSync](https://img.shields.io/badge/AppSync-232F3E?style=for-the-badge&logo=aws-appsync) |
-
----
 
 ### 🐳 Containers
 
@@ -32,15 +28,11 @@ Here’s a visual snapshot of the core technologies we use to build, automate, a
 |---|---|---|
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) | ![Fargate](https://img.shields.io/badge/Fargate-009FDA?style=for-the-badge&logo=aws-fargate) | ![EKS](https://img.shields.io/badge/EKS-704EB0?style=for-the-badge&logo=amazon-eks) |
 
----
-
 ### 🔄 CI/CD Automation
 
 | GitHub Actions | CodeBuild | CodePipeline | CodeDeploy |
 |---|---|---|---|
 | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions) | ![CodeBuild](https://img.shields.io/badge/CodeBuild-1546A0?style=for-the-badge&logo=aws-codebuild) | ![CodePipeline](https://img.shields.io/badge/CodePipeline-2E2F4C?style=for-the-badge&logo=aws-codepipeline) | ![CodeDeploy](https://img.shields.io/badge/CodeDeploy-6F2B8F?style=for-the-badge&logo=aws-codedeploy) |
-
----
 
 ### 💾 Data & Storage
 
@@ -48,16 +40,12 @@ Here’s a visual snapshot of the core technologies we use to build, automate, a
 |---|---|---|---|
 | ![Aurora](https://img.shields.io/badge/Aurora%20PostgreSQL-527BBE?style=for-the-badge&logo=postgresql) | ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb) | ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3) | ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch) |
 
----
-
 ### 💻 Dev & Scripting
 
 | Node.js | Python | Bash | AWS SSM |
 |---|---|---|---|
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash) | ![SSM](https://img.shields.io/badge/SSM-4D27AE?style=for-the-badge&logo=amazon-aws) |
 
-
----
 
 ## 🏢 About This Org
 
