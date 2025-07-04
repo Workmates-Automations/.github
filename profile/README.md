@@ -4,6 +4,18 @@ Welcome to the **Workmates Automations** organization — your one-stop space fo
 
 Our mission is to make operations faster, smarter, and more reliable by using automation across DevOps workflows.
 
+
+---
+
+## 🏢 About This Org
+
+This GitHub organization is maintained by the **Managed Services Team** and is focused on:
+
+- Automating cloud operations
+- Reusing infrastructure blueprints
+- Improving consistency across projects
+
+Everything here is built to **save time**, **reduce errors**, and **speed up delivery**.
 ---
 
 ## 🧰 Tools & Tech We Use
@@ -45,17 +57,6 @@ Here’s a visual snapshot of the core technologies we use to build, automate, a
 | Node.js | Python | Bash | AWS SSM |
 |---|---|---|---|
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash) | ![SSM](https://img.shields.io/badge/SSM-4D27AE?style=for-the-badge&logo=amazon-aws) |
-
-
-## 🏢 About This Org
-
-This GitHub organization is maintained by the **Managed Services Team** and is focused on:
-
-- Automating cloud operations
-- Reusing infrastructure blueprints
-- Improving consistency across projects
-
-Everything here is built to **save time**, **reduce errors**, and **speed up delivery**.
 
 ---
 
