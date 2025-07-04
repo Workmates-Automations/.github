@@ -10,8 +10,6 @@ Our mission is to make operations faster, smarter, and more reliable by using au
 
 Here’s a visual snapshot of the core technologies we use to build, automate, and deploy our infrastructure and applications.
 
----
-
 ### 🌍 Infrastructure & IaC
 
 | Terraform | CloudFormation | CDK |
